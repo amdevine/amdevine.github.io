@@ -22,10 +22,18 @@ header p {
     text-align: center;
 }
 
-h1 {
+h1, h2 {
     font-family: 'Kalam', serif;
-    font-size: 24px;
     margin: 1em 0em 0em 0em;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 22px;
+    color: #666666;
 }
 
 code {
